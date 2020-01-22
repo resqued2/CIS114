@@ -1,0 +1,7 @@
+<body>
+    <p>Enter Fahrenheit temperature</p>
+    <input type="text">
+    <label>&nbsp;</label>
+    <input type="button" id="ok" value="ok"><input type="button" id="cancel" value="cancel">
+  </form>
+</body>
